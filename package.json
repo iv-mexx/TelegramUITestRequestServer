@@ -1,0 +1,19 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "Server for triggering and receiving telegram events from iOS Unit Tests",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "telegram",
+    "ios",
+    "tests"
+  ],
+  "author": "Markus Chmelar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
