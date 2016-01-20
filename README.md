@@ -2,7 +2,7 @@
 
 This project was built to enable communication of Unit Testcases (especially on iOS) with the Telegram Backend.
 
-The corresponding iOS Project with Testcases implemented [can be found here](https://github.com/iv-mexx/Telegram)
+The corresponding iOS Project with Testcases implemented [can be found here](https://github.com/iv-mexx/Telegram-UI-Tests)
 
 ## Setup
 
