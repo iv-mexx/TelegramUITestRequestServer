@@ -39,6 +39,5 @@ The GET routes take some time to process and return, you may need to increase th
 
 ## Troubleshooting
 
-### Telegram CLI prints `Assertion failed: (0), function print_media, file interface.c, line 3446.`
-
-You need to apply [this patch](https://github.com/vysheng/tg/pull/920/files) to telegram (unless this PR is already merged by this time)
+*  Telegram CLI prints `Assertion failed: (0), function print_media, file interface.c, line 3446.`
+  You need to apply [this patch](https://github.com/vysheng/tg/pull/920/files) to telegram (unless this PR is already merged by this time)
